@@ -1,4 +1,4 @@
-![Logo](https://github.com/OpenBrackets-ch/.github/blob/main/profile/logo.png))
+![Logo](https://github.com/OpenBrackets-ch/.github/blob/main/profile/logo.png)
 
 ## Unsere Werte
 
