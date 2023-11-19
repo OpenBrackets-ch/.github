@@ -14,8 +14,8 @@ Mehr dazu aber im [Repository der Defikarte](https://github.com/OpenBrackets-ch/
 ## Unser Beitrag
 
 - [Defikarte.ch](https://defikarte.ch/)
-- [OpenData.rocks](https://www.opendata.rocks) - Blog über offene Daten in der Schweiz und weltweit.
+- [Defis nach Kantonen und schweizweit alle Defis zur freien Verwendung als GeoJSON](https://github.com/OpenBrackets-ch/defi-data)
 - [JSON Archiv mit Daten für Rettungsorganisationen](https://github.com/OpenBrackets-ch/rescue-data)
-- Anleitungen für die Pflege von Openstreetmap Daten
+- Anleitungen für die Pflege von Openstreetmap Daten: [Zum Beispiel für Feuerwehren](https://github.com/OpenBracketsCH/fw_how_to_osm)
 - Aktive Mitgestaltung der [Schweizer OpenstreetMap Community](https://www.sosm.ch) und Mitgliedschaft im Verein
 - Jury Mitglied der Dinacon Awards
